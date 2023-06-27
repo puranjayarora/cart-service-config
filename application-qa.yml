@@ -1,6 +1,6 @@
 spring:
  application:
-  name: CONFIG-SERVICE-QA
+  name: CART-SERVICE-QA
 eureka:
  instance:
    prefer-ip-address: true
